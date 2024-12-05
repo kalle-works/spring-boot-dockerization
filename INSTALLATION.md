@@ -5,7 +5,7 @@ Tässä ohjeet, joiden avulla osallistujat voivat asentaa tarvittavat työkalut 
 ---
 
 
-## **3. Docker Desktop**
+## **1. Docker Desktop**
 ### **Mac**
 1. Lataa Docker Desktop:  
    [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
