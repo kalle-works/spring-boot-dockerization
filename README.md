@@ -1,8 +1,3 @@
-# Java Spring boot dockerointi
+# Spring Boot Docker Workshop
 
-Tämän workshopin idea on dockeroida java spring boot sovellus ja oppia hyviä tapoja oman kehitysympäristön ylläpitoon.
-
-# Tarvittavat riippuvuudet
-Katso installation.md tiedosto.
-
-Käytännössä docker, java 17+, maven.
+This repository contains different steps for dockerizing a Spring Boot application.
